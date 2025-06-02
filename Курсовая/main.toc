@@ -1,0 +1,23 @@
+\changetocdepth {3}
+\xpg@aux {}{russian}
+\vspace {1\baselineskip }
+\contentsline {chapter}{\MakeUppercase []{Введение}}{5}{chapter*.2}%
+\contentsline {chapter}{\chapternumberline {1}\MakeUppercase []{Разведочный анализ данных с использованием PySpark}}{7}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Постановка задачи разведочного анализа}{7}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Описание датасета}{8}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Определение пропущенных значений}{8}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Расчет корреляции между количественными признаками}{10}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Выводы}{12}{section.1.5}%
+\contentsline {chapter}{\chapternumberline {2}\MakeUppercase []{Машинное обучение на больших данных}}{14}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Задача регресии}{14}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Постановка задачи регрессии}{14}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Решение задачи регрессии}{14}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Анализ полученных результатов}{17}{subsection.2.1.3}%
+\contentsline {section}{\numberline {2.2}Задача бинарной классификации}{18}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Постановка задачи бинарной классификации}{19}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Решение задачи бинарной классификации}{21}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Анализ полученных результатов}{21}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}Выводы}{22}{section.2.3}%
+\contentsline {chapter}{\MakeUppercase []{Заключение}}{23}{chapter*.6}%
+\contentsline {appendix}{\chapternumberline {А}Пример листинга программного кода}{24}{appendix.A}%
+\contentsline {appendix}{\chapternumberline {Б}Пример второго приложения}{25}{appendix.B}%
